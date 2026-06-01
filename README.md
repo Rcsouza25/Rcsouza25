@@ -1,6 +1,6 @@
 ## Sejam Bem-Vindos ao Meu Ambiente!
 
-![Gif da teclagem](https://animesher.com/orig/0/18/188/1885/animesher.com_mouse-keyboard-computer-188584.gif)
+![Gif Baiano Noturno](https://mir-s3-cdn-cf.behance.net/project_modules/1400/641c2b170466977.645e34a7760bf.gif)
 ------
 
 🐻 Hellou, me chamdo Richard Mylls
@@ -12,5 +12,15 @@
 ------
 
 ### Minhas Tecnologias
-![AWS](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />)
 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="100x">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" width="100x">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="100x">
+
+-----
+| Cursos | Certificados |
+|---------|--------------|
+|Príncipios do Git e Github | [Ceritificado](https://hermes.dio.me/certificates/JIYUNOMD.pdf)
+
+---
