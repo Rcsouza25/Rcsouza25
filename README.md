@@ -1,7 +1,7 @@
 ## Sejam Bem-Vindos ao Meu Ambiente!
 
 ![Gif Baiano Noturno](https://mir-s3-cdn-cf.behance.net/project_modules/1400/641c2b170466977.645e34a7760bf.gif)
-------
+---
 
 🐻 Hellou, me chamdo Richard Mylls
 
@@ -9,7 +9,7 @@
 
 💻[Meu Instagram](https://www.instagram.com/rcsouza_20/)
 
-------
+---
 
 ### Minhas Tecnologias
 
@@ -18,9 +18,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" width="100x">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="100x">
 
------
+---
 | Cursos | Certificados |
 |---------|--------------|
 |Príncipios do Git e Github | [Ceritificado](https://hermes.dio.me/certificates/JIYUNOMD.pdf)
 
 ---
+![Richard Mylls GIthub Status](https://github-readme-stats.vercel.app/api?username=Rcsouza25&show_icons=true&theme=dracula)
