@@ -25,4 +25,6 @@
 |Príncipios do Git e Github | [Ceritificado](https://hermes.dio.me/certificates/JIYUNOMD.pdf)
 
 ---
-![Richard Mylls GIthub Status](https://github-readme-stats.vercel.app/api?username=Rcsouza25&show_icons=true&theme=dracula)
+![Richard Mylls GIthub Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Rcsouza25&layout=compact&langs_count=7&theme=dracula)
+
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rcsouza25&layout=compact&langs_count=7&theme=dracula"/>
